@@ -1,7 +1,7 @@
 # IP Rate Limiter
 
 ## Overview
-This project is a fixed window IP rate limiter.
+This is a fixed window IP rate limiter.
 
 ## Implementation Details
 
